@@ -1,0 +1,26 @@
+body{
+    margin : 0px;
+    background-color: rgb(219, 236, 221);
+    
+    
+}
+
+.heading {
+    background-color: #004953;
+    margin-top: 0px;
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+
+    text-align: center;
+}
+
+.name, .contact{
+   
+    color:aliceblue;
+}
+
+.blocks{
+    text-align: center;
+}
